@@ -8,14 +8,11 @@
 
 * [Task Description](task-description.md)
 
-  * [Overview](overview.md)
-  * [Dataset](dataset.md)
-
-* [Session 1](session1.md)
+* [Session 1 - Add Date](session1.md)
 
 * [Break](break.md)
 
-* [Session 2](session2.md)
+* [Session 2 - Add Date](session2.md)
 
 * [Submission](submission.md)
 
