@@ -1,15 +1,10 @@
 # How to Use Experimentor
 
 
-## Start working on the problem a Notebook
-1. Sign in [Experimentor](https://experimentor.mentoracademy.org) with your Coursera account.
+## Start working on the problem
+1. Sign in [Experimentor](https://experimentorx.mentoracademy.org) with your Coursera account.
 
-2. Create a notebook file.
-
-    ![](assets/create.jpg)
-
-    ![](assets/notebook.jpg)
-
+2. Open the `Problem Statement.ipynb` in `Problem-Statement-Folder` folder.
 
 ## Install Python Packages
 
