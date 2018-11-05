@@ -1,8 +1,3 @@
-<!-- For groups using shared Notebook -->
-* [How to use Experimentor](howto.md)
-
-<!-- For groups using non-shared Notebook -->
-<!--* [How to use Git in Experimentor](howtogit.md)-->
 
 * [Session 0 - Setup](session0.md)
 
